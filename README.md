@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... a very impactful project
 - 🤔 I’m looking for help with ... catching up with the current web development technologies
 - 💬 Ask me about ... python maybe? but only vanilla, since I'm not too familiar on any frameworks 
-- 📫 How to reach me: ... https://www.linkedin.com/in/ddcmendoza/ or fb.com/deybmen
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ddcmendoza/) or [Facebook](https://www.facebook.com/deybmen/)
 - ⚡ Fun fact: ... I can speak/read/write business Japanese and up to around intermediate level conversational Japanese.
 
