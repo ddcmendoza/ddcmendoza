@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Mechanical Engineer by profession but my hobbies and interests are programming and circuitries, I have experience tinkering with embedded systems and varios programming languages.
+### Hi there 👋 I am a Mechanical Engineer by profession but my hobbies and interests are programming and circuitries, I have experience tinkering with embedded systems and various programming languages.
 
 <!--
 **ddcmendoza/ddcmendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
