@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ddcmendoza/) or [Facebook](https://www.facebook.com/deybmen/)
 - ⚡ Fun fact: ... I can speak/read/write business Japanese and up to around intermediate level conversational Japanese.
 
+
+<p align="center">
+  <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=ddcmendoza&theme=merko&show_icons=true" />
+  </p>
